@@ -1,0 +1,39 @@
+.update-container {
+    padding-left: 3rem;
+    padding-right: 3rem;
+    margin-top: 6rem;
+    margin-bottom: 6rem;
+}
+
+.Update-text h3 {
+    text-align: center;
+    color: #5c5c55;
+}
+
+.update-img {
+    display: flex;
+    gap: 1.5rem;
+    justify-content: center;
+}
+
+.update-img img {
+    width: 290px;
+    height: 290px;
+    object-fit: cover;
+}
+
+.update-img-cn {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.update-button {
+    width: 27rem;
+    background-color: #de5039;
+    border-radius: 5px;
+    color: white;
+    margin-top: 1rem;
+}

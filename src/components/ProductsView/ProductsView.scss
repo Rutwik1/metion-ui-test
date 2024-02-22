@@ -1,0 +1,19 @@
+.pv-img-cn {
+    display: flex;
+    gap: 1.5rem;
+    justify-content: center;
+    align-items: center;
+    margin-top: 6rem;
+    padding-right: 3rem;
+    padding-left: 3rem;
+}
+
+.pv-img img {
+    width: 380px;
+    height: 380px;
+    object-fit: cover;
+}
+
+.pv-btn-cn {
+    margin-top: 2rem;
+}

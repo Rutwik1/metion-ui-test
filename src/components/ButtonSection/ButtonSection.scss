@@ -1,0 +1,73 @@
+.btn-section-1 {
+    display: flex;
+    gap: 0.5rem;
+    justify-content: center;
+}
+
+.number-container {
+    display: flex;
+    gap: 2.5rem;
+    border: 2px solid rgb(146, 140, 140);
+    padding: 5px;
+    max-width: 140px;
+    border-radius: 5px;
+    align-items: center;
+    cursor: pointer;
+    // position: relative;
+}
+
+.minus-btn-icon {
+    position: relative;
+    left: 0.5rem;
+}
+
+.plus-btn-icon {
+    position: relative;
+    right: 0.5rem;
+}
+
+
+.addtocart-btn {
+    width: 18.1rem;
+    color: #ffffff;
+    background-color: #231f20;
+    border-radius: 5px;
+}
+
+.buy-btn {
+    width: 27rem;
+    background-color: #de5039;
+    border-radius: 5px;
+    color: white;
+}
+
+
+.visacard-btn {
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid #f6efeb;
+    padding: 8px;
+    max-width: 27rem;
+    border-radius: 5px;
+    background-color: #f6efeb;
+    margin: auto;
+    margin-top: 1rem;
+}
+
+.returns-btn {
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid #f6efeb;
+    padding: 8px;
+    max-width: 27rem;
+    border-radius: 5px;
+    background-color: #f6efeb;
+    margin: auto;
+    margin-top: 0.5rem;
+}
+
+img {
+    width: 35px;
+    height: 24.5px;
+    background-color: white;
+}

@@ -1,0 +1,28 @@
+.Offer-container {
+    width: 100%;
+    background-color: #de5039;
+    color: white;
+    display: flex;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    justify-content: space-between;
+}
+
+.arrow-down-icon1 {
+    font-size: 15px;
+    margin-left: 0.5rem;
+    margin-top: -0.2rem;
+    color: #ffffff;
+}
+
+.social-icon {
+    color: #ffffff;
+    font-size: 20px;
+    margin-right: 1rem;
+}
+
+.last-child {
+    margin-right: 0;
+}

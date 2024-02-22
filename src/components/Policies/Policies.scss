@@ -1,0 +1,44 @@
+.Policies-container {
+    display: flex;
+    gap: 1.5rem;
+    justify-content: center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+
+.details-text {
+    border-bottom: 1px solid #7979743f;
+    padding-bottom: 0.5rem;
+}
+
+.details-text span {
+    font-size: 20px;
+    font-weight: 500;
+    color: #5c5c55;
+}
+
+.detail-text-1 {
+    color: #5c5c55;
+    padding-top: 0.5rem;
+}
+
+.detail-text-1 span {
+    font-size: 15px;
+    font-weight: 500;
+    color: #5c5c55;
+}
+
+.detail-text-span-2 {
+    padding-bottom: 5rem;
+}
+
+.policies-cn-1 {
+    // border: 1px solid #f6efeb;
+    width: 400px;
+    padding: 25px;
+    background-color: #f6efeb;
+    border-radius: 10px;
+    box-shadow: 0px 0px 2px 2px #e4d6cd;
+}

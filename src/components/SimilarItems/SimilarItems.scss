@@ -1,0 +1,54 @@
+.SimilarItems-container {
+    padding-left: 3rem;
+    padding-right: 3rem;
+    margin-bottom: 5rem;
+}
+
+.si-container-1 {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    margin-bottom: 2rem;
+}
+
+.si-text-cn h4 {
+    font-size: 20px;
+    color: #231f20;
+}
+
+.si-next-icon {
+    display: flex;
+    gap: 1.5rem;
+}
+
+.no-icon {
+    font-size: 12px;
+}
+
+.no-icon1 {
+    color: #0000003d;
+}
+
+.si-img img {
+    width: 290px;
+    height: 290px;
+    object-fit: cover;
+}
+
+.si-img h4 {
+    margin-top: 0.5rem;
+    margin-bottom: 0;
+    color: #231f20;
+}
+
+.si-img span {
+    font-weight: 500;
+    color: #5c5c55;
+}
+
+.si-img-cn {
+    display: flex;
+    gap: 1.5rem;
+    justify-content: center;
+}

@@ -1,0 +1,72 @@
+.HeroSection-container {
+    padding-left: 3rem;
+    padding-right: 3rem;
+    margin-bottom: 6rem;
+}
+
+.h-main-container {
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+}
+
+.h-img {
+    width: 48.5rem;
+    height: 45.5rem;
+    object-fit: cover;
+}
+
+.h-img1 {
+    width: 70px;
+    height: 70px;
+    object-fit: cover;
+}
+
+.h-border {
+    border: 2px solid #5c5c55;
+}
+
+.h-cn-1 {
+    margin-top: 2rem;
+    padding-left: 0.3rem;
+}
+
+.h-cn-2 {
+    margin-top: 1rem;
+}
+
+.h-cn-3 {
+    display: flex;
+    gap: 0.6rem;
+    margin-top: 0.5rem;
+}
+
+.h-btn-cn {
+    margin-top: 1rem;
+}
+
+.h-details-cn {
+    margin-top: 1rem;
+    font-weight: 500;
+    color: #5c5c55;
+}
+
+.h-details-cn1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.h-container-2 {
+    margin-top: 0.5rem;
+}
+
+.h-sec h4 {
+    margin-top: 0.5rem;
+    margin-bottom: 0;
+    color: #231f20;
+}
+
+.h-sec span {
+    font-weight: 500;
+    color: #5c5c55;
+}

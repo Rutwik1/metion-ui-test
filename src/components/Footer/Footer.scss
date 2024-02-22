@@ -1,0 +1,64 @@
+.F-container-1 {
+    width: 100%;
+    background-color: #ffffff;
+    display: flex;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    justify-content: space-between;
+}
+
+.text-1 {
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.contact-us-text span {
+    font-size: 30px;
+    font-weight: 500;
+    color: #5c5c55;
+    margin-left: -6rem;
+}
+
+.arrow-circle-icon {
+    color: #ffffff;
+    font-size: 40px;
+    background-color: #de5039;
+    border-radius: 50%;
+}
+
+.F-container-2 {
+    width: 100%;
+    background-color: #ffffff;
+    display: flex;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    justify-content: space-between;
+    border-top: 1px solid #00000038;
+}
+
+.F-logo {
+    width: 124px;
+    height: 32px;
+}
+
+.F-social-icon {
+    color: #5c5c55;
+    font-size: 20px;
+    margin-right: 1rem;
+}
+
+.last-child {
+    margin-right: 0;
+}
+
+.img-1 {
+    width: 35px;
+    height: 24.5px;
+    background-color: #ffffff;
+    border: 1px solid #00000038;
+    border-radius: 2px;
+}
